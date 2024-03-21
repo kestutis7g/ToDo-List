@@ -1,0 +1,33 @@
+[data-task-priority="0"] {
+  background-image: linear-gradient(310deg, #bdbdbd, #dcdcdc);
+}
+
+[data-task-priority="1"] {
+  background-image: linear-gradient(310deg, #2dcecc, #2dce89);
+}
+
+[data-task-priority="2"] {
+  background-image: linear-gradient(310deg, #e08f0d, #cece2d);
+}
+
+[data-task-priority="3"] {
+  background-image: linear-gradient(310deg, #f56036, #f5365c);
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #00000033;
+}
+
+.form-check-input {
+  width: 2rem;
+  height: 2rem;
+}
+
+.btn-edit {
+  height: 2.5rem !important;
+  margin-right: 4px;
+}
+.btn-delete {
+  height: 2.5rem !important;
+}

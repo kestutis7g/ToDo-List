@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.tasks {
+  margin-top: 20px;
+}
+
+.form {
+  border: 1px solid black;
+}
+.sortBy-container {
+  width: 66%;
+}
+
+.sortOrder-container {
+  width: 33%;
+}
